@@ -75,10 +75,4 @@ The application follows a typical MERN architecture:
 
 ## 🖼️ Screenshots
 
-> Add your images from the `feature_screenshots` folder here
 
-Example:
-
-```markdown
-![Pet Listing](feature_screenshots/pet-listing.png)
-![Dashboard](feature_screenshots/admin-dashboard.png)
